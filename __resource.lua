@@ -7,6 +7,5 @@ description 'Vytvorené pod autorskými právami. Vytvoril C3bin.'
 version '1.1'
 
 client_scripts {
-	'@es_extended/locale.lua',
-	'no_npc_drop.lua',
+	'no_npc_drop.lua'
 }
