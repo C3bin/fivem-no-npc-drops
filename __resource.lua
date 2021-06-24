@@ -8,5 +8,5 @@ version '1.1'
 
 client_scripts {
 	'@es_extended/locale.lua',
-	'client/npc_drop-client.lua',
+	'no_npc_drop.lua',
 }
